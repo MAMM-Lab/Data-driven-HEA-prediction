@@ -7,7 +7,7 @@
 
 
 
-## Data collection
+Data collection
 By: Q Han, Z Lu, et al. 
 Mechanics of Advanced Metallic Materials (MAMM) Lab, at NUAA (Nanjing University Of Aeronautics And Astronautics)
 
