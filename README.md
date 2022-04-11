@@ -1,3 +1,13 @@
 # Data driven HEA prediction data files
 
-Explanation of symbols for the data file:
+## Explanation of symbols for the data file
+
+
+
+
+
+
+## Data collection
+By: Q Han, Z Lu, et al. 
+Mechanics of Advanced Metallic Materials (MAMM) Lab, at NUAA (Nanjing University Of Aeronautics And Astronautics)
+
