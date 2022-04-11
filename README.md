@@ -3,7 +3,9 @@
 ## Explanation of symbols for the data file
 
 name：Name of the HEA
+
 full_name： Full name of the HEA
+
 x: A geometrical parameter λ 
 y: A geometrical parameter γ(reveal the atomic packing mismatch and topological instability)
 mean_VEC：mean valence electron concentration VEC
