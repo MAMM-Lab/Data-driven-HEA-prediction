@@ -1,8 +1,6 @@
-# Data driven HEA prediction data files
+# Data driven HEA prediction data 
 
-## Explanation of symbols for the data file
-
-ML_dataset.txt
+## Explanation of symbols for the dataset ML_dataset.txt
 
 name：Name of the HEA
 
