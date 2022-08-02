@@ -1,5 +1,9 @@
 # Data driven HEA prediction data 
 
+## To use the program 
+
+Run Codes-main.py
+
 ## Explanation of symbols for the dataset ML_dataset.txt
 
 name：Name of the HEA
